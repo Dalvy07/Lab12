@@ -2,13 +2,13 @@
 
 ## Uruchomienie
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ## Wyłączanie
 ```bash
-docker-compose down     # Zachowuje dane
-docker-compose down -v  # Usuwa dane
+docker compose down     # Zachowuje dane
+docker compose down -v  # Usuwa dane
 ```
 
 ## Dostęp
